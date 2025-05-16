@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("scl_cli")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5a220a250489b16e1c65b859d055b15335556f9a")]
 [assembly: System.Reflection.AssemblyProductAttribute("scl_cli")]
 [assembly: System.Reflection.AssemblyTitleAttribute("scl_cli")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
