@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Js+8sa5ZfdM=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Kenisank\\source\\learn\\scl_cli\\scl_cli.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kenisank\\.nuget\\packages\\system.commandline\\2.0.0-beta4.22272.1\\system.commandline.2.0.0-beta4.22272.1.nupkg.sha512"
+  ],
+  "logs": []
+}
